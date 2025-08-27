@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\04 - GitHub\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D051C1E-FA06-4760-9B6D-0297E9111DD6}|EcommerceOrder.API\\EcommerceOrder.API.csproj|d:\\04 - github\\ecommerce\\ecommerceorder.api\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D051C1E-FA06-4760-9B6D-0297E9111DD6}|EcommerceOrder.API\\EcommerceOrder.API.csproj|solutionrelative:ecommerceorder.api\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{643AC395-6AF3-465F-AE9B-4DA2409E2CC3}|Ecommerce.API\\EcommerceProduct.API.csproj|d:\\04 - github\\ecommerce\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AC395-6AF3-465F-AE9B-4DA2409E2CC3}|Ecommerce.API\\EcommerceProduct.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{643AC395-6AF3-465F-AE9B-4DA2409E2CC3}|Ecommerce.API\\EcommerceProduct.API.csproj|d:\\04 - github\\ecommerce\\ecommerce.api\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{643AC395-6AF3-465F-AE9B-4DA2409E2CC3}|Ecommerce.API\\EcommerceProduct.API.csproj|solutionrelative:ecommerce.api\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D051C1E-FA06-4760-9B6D-0297E9111DD6}|EcommerceOrder.API\\EcommerceOrder.API.csproj|d:\\04 - github\\ecommerce\\ecommerceorder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D051C1E-FA06-4760-9B6D-0297E9111DD6}|EcommerceOrder.API\\EcommerceOrder.API.csproj|solutionrelative:ecommerceorder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D051C1E-FA06-4760-9B6D-0297E9111DD6}|EcommerceOrder.API\\EcommerceOrder.API.csproj|d:\\04 - github\\ecommerce\\ecommerceorder.api\\repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D051C1E-FA06-4760-9B6D-0297E9111DD6}|EcommerceOrder.API\\EcommerceOrder.API.csproj|solutionrelative:ecommerceorder.api\\repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D051C1E-FA06-4760-9B6D-0297E9111DD6}|EcommerceOrder.API\\EcommerceOrder.API.csproj|d:\\04 - github\\ecommerce\\ecommerceorder.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D051C1E-FA06-4760-9B6D-0297E9111DD6}|EcommerceOrder.API\\EcommerceOrder.API.csproj|solutionrelative:ecommerceorder.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AC395-6AF3-465F-AE9B-4DA2409E2CC3}|Ecommerce.API\\EcommerceProduct.API.csproj|d:\\04 - github\\ecommerce\\ecommerce.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AC395-6AF3-465F-AE9B-4DA2409E2CC3}|Ecommerce.API\\EcommerceProduct.API.csproj|solutionrelative:ecommerce.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Repository\\ProductRepository.cs",
-              "ToolTip": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "Ecommerce.API\\Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAA0AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\04 - GitHub\\Ecommerce\\EcommerceOrder.API\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceOrder.API\\Program.cs",
+              "ToolTip": "D:\\04 - GitHub\\Ecommerce\\EcommerceOrder.API\\Program.cs",
+              "RelativeToolTip": "EcommerceOrder.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T21:09:45.243Z",
+              "WhenOpened": "2025-08-27T21:38:01.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\04 - GitHub\\Ecommerce\\EcommerceOrder.API\\Repository\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "EcommerceOrder.API\\Repository\\OrderRepository.cs",
-              "ToolTip": "D:\\04 - GitHub\\Ecommerce\\EcommerceOrder.API\\Repository\\OrderRepository.cs",
-              "RelativeToolTip": "EcommerceOrder.API\\Repository\\OrderRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAAwAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Program.cs",
+              "ToolTip": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\Program.cs",
+              "RelativeToolTip": "Ecommerce.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T21:09:26.351Z",
+              "WhenOpened": "2025-08-27T21:37:51.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Ecommerce.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:31:28.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "D:\\04 - GitHub\\Ecommerce\\EcommerceOrder.API\\Repository\\Interface\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "EcommerceOrder.API\\Repository\\Interface\\IOrderRepository.cs",
-              "ToolTip": "D:\\04 - GitHub\\Ecommerce\\EcommerceOrder.API\\Repository\\Interface\\IOrderRepository.cs",
-              "RelativeToolTip": "EcommerceOrder.API\\Repository\\Interface\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\04 - GitHub\\Ecommerce\\EcommerceOrder.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EcommerceOrder.API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\04 - GitHub\\Ecommerce\\EcommerceOrder.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EcommerceOrder.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T21:16:16.563Z",
+              "WhenOpened": "2025-08-27T21:31:22.198Z",
               "EditorCaption": ""
             }
           ]

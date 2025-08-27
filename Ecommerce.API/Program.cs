@@ -1,6 +1,8 @@
 using Ecommerce.API.Context;
 using Ecommerce.API.Repository;
 using Ecommerce.API.Repository.Interface;
+using Ecommerce.API.Service;
+using Ecommerce.API.Service.Interface;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,6 +16,7 @@ builder.Services.
     AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

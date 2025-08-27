@@ -1,11 +1,11 @@
 ﻿using EcommerceOrder.API.DTOs;
 
-namespace EcommerceOrder.API.Repository.Interface
+namespace EcommerceOrder.API.Service.Interface
 {
-    public interface IOrderRepository
+    public interface IOrderService
     {
         Task<IEnumerable<OrderDTO>> GetAllAsync();
         Task<OrderDTO> GetByIdAsync(Guid id);
-        Task<OrderDTO> AddAsync(OrderDTO orderDTO);
+        Task<OrderDTO> AddOrderAsync(OrderDTO order);
     }
 }
