@@ -4306,9 +4306,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
-      "projectName": "Ecommerce.API",
-      "projectPath": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+      "projectUniqueName": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\EcommerceProduct.API.csproj",
+      "projectName": "EcommerceProduct.API",
+      "projectPath": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\EcommerceProduct.API.csproj",
       "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
       "outputPath": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\obj\\",
       "projectStyle": "PackageReference",

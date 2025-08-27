@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NCoZEu3nnz8=",
+  "dgSpecHash": "s1w5X34BIHc=",
   "success": true,
-  "projectFilePath": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+  "projectFilePath": "D:\\04 - GitHub\\Ecommerce\\Ecommerce.API\\EcommerceProduct.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diogo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
